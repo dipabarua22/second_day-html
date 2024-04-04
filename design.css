@@ -1,0 +1,46 @@
+
+
+/* h1{
+    color: rgb(33, 145, 107);
+} */
+.dipa {
+    color: rgb(38, 68, 91);
+    background-color: rgb(254, 168, 221);
+}
+
+.sh {
+    background-color: rgb(213, 184, 241);
+}
+
+.div-section1 {
+    background: rgb(202, 222, 239);
+    border: 5px dotted skyblue;
+}
+
+.div-section2 p {
+    background-color: rgb(248, 187, 187);
+}
+
+.div-section1 p {
+    font-weight: bold;
+    font-size: x-large;
+}
+.main-section{
+    border: 8px solid rgb(121, 121, 126);
+    background-color: rgb(253, 210, 210);
+    margin: 20px;
+    padding: 17px 130px;
+}
+.another-section{
+    border: 2px solid rgb(146, 238, 146);
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+}
+.change{
+    color: blueviolet;
+}
+p{
+    color: rgb(167, 108, 35);
+    background-color: rgb(176, 244, 244);
+}
